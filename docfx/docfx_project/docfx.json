@@ -3,7 +3,7 @@
     {
       "src": [
           {
-            "files": [ "**/*.sln", "/src/SampleAPIS/**.csproj" ],
+            "files": [ "**/*.sln", "/src/SampleAPIS/*.csproj" ],
             "exclude": [ "**/bin/**", "**/obj/**" ],
             "src": "src"
           }       
